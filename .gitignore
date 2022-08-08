@@ -1,0 +1,9 @@
+# created by virtualenv automatically
+*.env
+*Vendas_case
+*build
+*Lib
+*Libs
+*Log
+*Scripts
+*pyvenv.cfg
