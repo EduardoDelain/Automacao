@@ -1,9 +1,9 @@
 # created by virtualenv automatically
 *.env
-*Vendas_case
+*Vendas_case.xlsx
 *build
 *Lib
 *Libs
-*Log
+*.idea
 *Scripts
 *pyvenv.cfg
